@@ -1,6 +1,6 @@
 export const aboutData = {
     title: "Who I am",
     description1: "Hi Everyone, I'm Sachin Kumar Keshri from Ranchi , Jharkhand.",
-    description2: "During the day I work as a lead developer at a local agency and in the evening I  work on freelance projects and utilize the time to built my own products. I spent my leisure hours writing articles and poetry. Right now I'm also trying a hand at machine learning and AI. I love to learn and explore new arenas.",
+    description2:"I have been very fond of technology. I started coding during my graduation.  I started liking the concept and wanted to become a full-stack web developer. In Nov 2021, I came to know about Masai school and at that time I began my journey toward becoming a Full-stack web developer." ,
     image: 1
 }
