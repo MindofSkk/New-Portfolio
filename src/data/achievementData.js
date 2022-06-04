@@ -3,11 +3,11 @@ export const achievementData = {
     achievements : [
         {
             id : 1,
-            title : 'Google Cloud certification',
+            title : 'Zero Sticker',
             details : 'Google Cloud certifications validate your expertise and showcase your ability to transform businesses with Google Cloud technology.',
             date : 'Aug 20, 2019',
             field : 'Automation',
-            image : 'https://images.unsplash.com/photo-1573141597928-403fcee0e056?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=667&q=80'
+            image : 'https://yt3.ggpht.com/x7J-JKDqBLwb5rUywEyIEqd9yz9gbbDw1IkzLzhkoH2mQHLPMpG9cXhboCgnTuroskygcx-iLG8=s900-c-k-c0x00ffffff-no-rj'
         },
         {
             id : 2,
@@ -15,7 +15,7 @@ export const achievementData = {
             details : 'Validate technical skills and cloud expertise to grow your career and business.',
             date : 'Aug 20, 2019',
             field : 'Automation',
-            image : 'https://images.unsplash.com/photo-1523474253046-8cd2748b5fd2?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80'
+            image : 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQp5WgJ_sQOJ-PefBEQvN0Gai8eMiz7CgkHw&usqp=CAU'
         },
         // {
         //     id : 3,
