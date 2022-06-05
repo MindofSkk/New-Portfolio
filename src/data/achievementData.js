@@ -11,8 +11,8 @@ export const achievementData = {
         },
         {
             id : 2,
-            title : 'AWS Certification',
-            details : 'Validate technical skills and cloud expertise to grow your career and business.',
+            title : 'Masai School',
+            details : 'Full Stack Developer Certification',
             date : 'Aug 20, 2019',
             field : 'Automation',
             image : 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQp5WgJ_sQOJ-PefBEQvN0Gai8eMiz7CgkHw&usqp=CAU'
