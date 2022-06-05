@@ -11,7 +11,7 @@ export const achievementData = {
         },
         {
             id : 2,
-            title : 'Masai School',
+            title : 'Masai School Full Stack Developer Certification ',
             details : 'Full Stack Developer Certification',
             date : 'Aug 20, 2019',
             field : 'Automation',
