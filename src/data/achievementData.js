@@ -4,7 +4,7 @@ export const achievementData = {
         {
             id : 1,
             title : 'Zero Sticker [Live-Projects]',
-            details:"Zero Sticker is onlline E-commerce Website. zero sticker provide all types of stickers like Bike stickers, car stickers, wall stickers, background stickers, laptop stickers, random stickers and etc…",
+            details:"Zero Sticker is online E-commerce Website. zero sticker provide all types of stickers like Bike stickers, car stickers, wall stickers, background stickers, laptop stickers, random stickers and etc…",
             date : 'zerosticker.com',
             field : '[Wordpress]',
             image : 'https://yt3.ggpht.com/x7J-JKDqBLwb5rUywEyIEqd9yz9gbbDw1IkzLzhkoH2mQHLPMpG9cXhboCgnTuroskygcx-iLG8=s900-c-k-c0x00ffffff-no-rj'
