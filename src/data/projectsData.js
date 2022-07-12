@@ -56,7 +56,7 @@ export const projectsData = [
     },
     {
         id: 6,
-        projectName: 'Uber Lite',
+        projectName: 'Uber ',
         projectDesc: 'Uber clone',
         tags: ['Flutter'],
         code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
